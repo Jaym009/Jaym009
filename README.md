@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Jaym009
-- 👀 I’m interested in AI/ML  
-- 🌱 I’m currently learning Python
-- 💞️ I’m looking to collaborate on Artificial Intelligence/Machine Learning Projects
+- 👀 I’m interested in SOFTWARE DEVELOPER  
+- 🌱 I’m currently learning Python,Java
+- 💞️ I’m looking to collaborate on Full stack Development Projects
 - 📫 How to reach me LinkedIn/Email
+- Email - jaymervana421@gmail.com
 
 <!---
 Jaym009/Jaym009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
