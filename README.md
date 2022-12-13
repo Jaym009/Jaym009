@@ -4,6 +4,7 @@
 - 💞️ I’m looking to collaborate on Full stack Development Projects
 - 📫 How to reach me LinkedIn/Email
 - Email - jaymervana421@gmail.com
+- Linkedin - jay-mervana-373b47212 
 
 <!---
 Jaym009/Jaym009 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
