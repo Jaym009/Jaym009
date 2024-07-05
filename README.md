@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Jaym009
 - 👀 I’m interested in SOFTWARE DEVELOPER  
-- 🌱 I’m currently learning Python,Java
+- 🌱 I’m currently learning Python,Javascript,Reactjs,Angular,Nodejs,MySQL,Mongodb
 - 💞️ I’m looking to collaborate on Full stack Development Projects
 - 📫 How to reach me LinkedIn/Email
 - Email - jaymervana421@gmail.com
